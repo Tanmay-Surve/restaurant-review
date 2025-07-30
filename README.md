@@ -1,3 +1,8 @@
+<img width="1537" height="941" alt="Screenshot From 2025-07-29 22-32-58" src="https://github.com/user-attachments/assets/785de819-cf41-4e99-8037-5010ce0174c2" />
+<img width="1537" height="941" alt="Screenshot From 2025-07-29 22-34-42" src="https://github.com/user-attachments/assets/264eab0d-cb2c-4b78-8413-86dd8f4b62e1" />
+
+
+
 # 🍽️ Restaurant Review Platform
 
 Welcome to the **Restaurant Review Platform**, a modern web application designed to help users discover local restaurants, read authentic reviews, and share their dining experiences. Built with a robust tech stack, this project combines **Spring Boot**, **Next.js**, **Elasticsearch**, and **Keycloak** to deliver a seamless and secure user experience.
